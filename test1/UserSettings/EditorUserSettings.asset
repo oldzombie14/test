@@ -1,0 +1,55 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!162 &1
+EditorUserSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 4
+  m_ConfigSettings:
+    RecentlyUsedSceneGuid-0:
+      value: 5553065054010a5d0b5a5a7012750a44154e1d7e7c7b7f60752a1e61e7b26060
+      flags: 0
+    RecentlyUsedSceneGuid-1:
+      value: 0752070703040f0e5f58557747715c444616412b297c7133747a4531b3b4366d
+      flags: 0
+    RecentlyUsedSceneGuid-2:
+      value: 5104505104500d5f5f0b5d2316705a4446164c297f7e7f60282b4961bbe56d3a
+      flags: 0
+    RecentlyUsedSceneGuid-3:
+      value: 0557050701540f09580f0d2715740944474f4d732f7d25647c2c4535b5b16668
+      flags: 0
+    RecentlyUsedSceneGuid-4:
+      value: 5354005350500f0f0c0c547344200d44144e1b7c287b22677f701962b6e56c39
+      flags: 0
+    RecentlyUsedSceneGuid-5:
+      value: 51095202045650580f595b7213220d4417154e7d297e2764782a1f30bab9646c
+      flags: 0
+    RecentlyUsedSceneGuid-6:
+      value: 0509025753540d5d5b59597612225d4414164c2f75717531297f4b30e7e3646a
+      flags: 0
+    RecentlyUsedSceneGuid-7:
+      value: 55080c025c565e080b570d7214730644444f492c7e7a7e3274281e67b1b3353a
+      flags: 0
+    RecentlyUsedSceneGuid-8:
+      value: 0203000701055b0b555f5e2444225c44404f1c2c7d7b2069747b1f6be3b13560
+      flags: 0
+    RecentlyUsedSceneGuid-9:
+      value: 5108575550000f5e5f5a5d7014270b444e4e497d797f20357c70496bb2b5673a
+      flags: 0
+    vcSharedLogLevel:
+      value: 0d5e400f0650
+      flags: 0
+  m_VCAutomaticAdd: 1
+  m_VCDebugCom: 0
+  m_VCDebugCmd: 0
+  m_VCDebugOut: 0
+  m_SemanticMergeMode: 2
+  m_DesiredImportWorkerCount: 8
+  m_StandbyImportWorkerCount: 2
+  m_IdleImportWorkerShutdownDelay: 60000
+  m_VCShowFailedCheckout: 1
+  m_VCOverwriteFailedCheckoutAssets: 1
+  m_VCProjectOverlayIcons: 1
+  m_VCHierarchyOverlayIcons: 1
+  m_VCOtherOverlayIcons: 1
+  m_VCAllowAsyncUpdate: 1
+  m_ArtifactGarbageCollection: 1
